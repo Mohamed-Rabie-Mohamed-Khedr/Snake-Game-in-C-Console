@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|solutionrelative:Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\PlayerGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|solutionrelative:Snake Game in C\u002B\u002B Console\\PlayerGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|solutionrelative:Snake Game in C\u002B\u002B Console\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\FootGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|solutionrelative:Snake Game in C\u002B\u002B Console\\FootGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Mab.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A0DAB83-BC91-4080-A770-49B2EF325EAF}|Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.vcxproj|solutionrelative:Snake Game in C\u002B\u002B Console\\Mab.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Enemy.h",
+              "RelativeDocumentMoniker": "Snake Game in C\u002B\u002B Console\\Enemy.h",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Enemy.h",
+              "RelativeToolTip": "Snake Game in C\u002B\u002B Console\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-20T05:22:10.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ViewState": "AgIAAFUHAAAAAAAAAAA0wF8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-16T07:02:06.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake Game in C\u002B\u002B Console.cpp",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.cpp",
+              "RelativeDocumentMoniker": "Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.cpp",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.cpp",
+              "RelativeToolTip": "Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console.cpp",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T06:51:16.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerGame.h",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\PlayerGame.h",
+              "RelativeDocumentMoniker": "Snake Game in C\u002B\u002B Console\\PlayerGame.h",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\PlayerGame.h",
+              "RelativeToolTip": "Snake Game in C\u002B\u002B Console\\PlayerGame.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T06:57:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootGame.h",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\FootGame.h",
+              "RelativeDocumentMoniker": "Snake Game in C\u002B\u002B Console\\FootGame.h",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\FootGame.h",
+              "RelativeToolTip": "Snake Game in C\u002B\u002B Console\\FootGame.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T07:37:36.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mab.h",
+              "DocumentMoniker": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Mab.h",
+              "RelativeDocumentMoniker": "Snake Game in C\u002B\u002B Console\\Mab.h",
+              "ToolTip": "C:\\Users\\My PC\\source\\repos\\Snake Game in C\u002B\u002B Console\\Snake Game in C\u002B\u002B Console\\Mab.h",
+              "RelativeToolTip": "Snake Game in C\u002B\u002B Console\\Mab.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-13T07:14:48.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
